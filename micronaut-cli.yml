@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.ae.meliclone
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, data, data-jpa, gradle, h2, http-client, jackson-databind, jdbc-hikari, junit, kotlin, kotlin-application, kotlin-build, kotlin-extension-functions, log4j2, micronaut-build, readme, shade, tomcat-server, yaml]
